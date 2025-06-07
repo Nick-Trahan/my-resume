@@ -1,0 +1,259 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Nichalos Trahan",
+    "label": "Web Developer",
+    "image": "",
+    "email": "nick@nicktrahan.dev",
+    "phone": "",
+    "url": "https://nicktrahan.dev",
+    "summary": "Creative and proactive problem solver with strong research skills gained from workplace experience. Proficient in turning designs and ideas into functional, accessible, and responsive web applications. Excels at troubleshooting technical and non-technical problems. Used these talents to support production environments, debug complex technical issues, and identify innovative technical solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Baton Rouge",
+      "countryCode": "US",
+      "region": "Louisiana"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Nick Trahan",
+        "url": "https://www.linkedin.com/in/nick-trahan-431741183/"
+      },
+      {
+        "network": "GitHub",
+        "username": "NickTrahan.dev",
+        "url": "https://nicktrahan.dev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Red River Technologies",
+      "position": "Web Developer",
+      "url": "https://redriver.com",
+      "startDate": "2022-12-19",
+      "endDate": "2024-02-02",
+      "summary": "Web developer working within an Agile team responsible for all aspects of the SDLC. Worked with subject matter experts and project managers to plan, develop, test and deploy custom quoting software that enabled the sales team deliver accurate, error-free quotes to clients. Specialized into React development, while also picking up new skills in C#/.NET and Azure DevOps with the help and mentorship from co-workers."
+    },
+    {
+      "name": "IBM",
+      "position": "Application Developer",
+      "url": "https://ibm.com",
+      "startDate": "2019-03-25",
+      "endDate": "2022-07-19",
+      "summary": "Responsibilities included setting up and troubleshooting local development environments, participating in an Agile workflow including daily stand-ups, collaborating with other developers local and remote, developing responsive web pages from documents provided by design teams, collaborating with back end teams to develop features of REST APIs, reviewing pull requests to support teammates with code quality and consistency, and pair programming with other developers to create code solutions to complex client requests.",
+      "highlights": [
+        "Earned 2 IBM Service Excellence Awards for project contributions"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [
+    {
+      "title": "IBM Service Excellence Award",
+      "date": "2021-05-27",
+      "awarder": "IBM",
+      "summary": "For contributions directly leading to the successful delivery of mission critical components."
+    },
+    {
+      "title": "IBM Service Excellence Award",
+      "date": "2021-03-25",
+      "awarder": "IBM",
+      "summary": "For contributions that directly lead to the sale of the IBM Community Health Monroe County COVID Project."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2019-08-21",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/badges/5b820ff5-6a55-4fe1-81ca-d6d9fba698fd"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "JavaScript",
+        "TypeScript",
+        "NodeJS",
+        "React",
+        "Redux",
+        "MobX",
+        "RESTful APIs",
+        "AG-Grid",
+        "Styled-Components"
+      ]
+    },
+    {
+      "name": "Back End Development",
+      "level": "Intermediate",
+      "keywords": ["NodeJS", "MongoDB", "Amazon Web Services", "Java"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Beginner",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "RedHat OpenShift",
+        "Jenkins",
+        "BASH Scripting",
+        "Atlassian Bamboo"
+      ]
+    },
+    {
+      "name": "Collaboration and Support",
+      "level": "Advanced",
+      "keywords": [
+        "Jira",
+        "Confluence",
+        "Trello",
+        "git",
+        "GitHub",
+        "Bitbucket",
+        "SourceTree",
+        "Agile Development",
+        "Kanban",
+        "Scrum",
+        "Pair programming",
+        "Slack"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "React Developer for a large multinational bank",
+      "summary": "Developed a group of helper applications that formed the basis of an audit workflow that allowed users to quickly and efficiently work with a large volume of data.",
+      "highlights": [
+        "Learned new technologies quickly enough to begin contributing code faster than expected, enabling the team to make an important deadline that was assumed to be missed.",
+        "Created an interface and generic boilerplate code for interactive data tables that allowed the rest of the front end team to rapidly develop new features.",
+        "Collaborated with back end developers to integrate front end features with the API",
+        "Won IBM Service Excellence Award for contributions directly leading to the successful delivery of mission critical components."
+      ],
+      "keywords": [
+        "HTML",
+        "CSS",
+        "ES6",
+        "TypeScript",
+        "React",
+        "React Context",
+        "React Hooks",
+        "MobX",
+        "AG Grid",
+        "IBM Carbon Design Language",
+        "Jira",
+        "git",
+        "GitHub"
+      ],
+      "startDate": "2021-03-10",
+      "endDate": "2022-02-10",
+      "roles": ["React Developer"],
+      "entity": "Entity",
+      "type": "application"
+    },
+    {
+      "name": "Jr. DevOps Engineer for a large multinational bank",
+      "summary": "Assisted senior team members in maintaining test and development environments for developers and implementing  a reliable CI/CD pipeline so developers would no longer have to manually deploy code changes.",
+      "highlights": [],
+      "keywords": [
+        "yaml",
+        "MarkLogic",
+        "Docker",
+        "Docker UCP",
+        "Kafka",
+        "Bamboo",
+        "Jira",
+        "git",
+        "Bitbucket"
+      ],
+      "startDate": "2020-11-10",
+      "endDate": "2021-03-10",
+      "roles": ["Jr. DevOps Engineer"],
+      "entity": "Entity",
+      "type": "application"
+    },
+    {
+      "name": "React Developer for IBM Community Health",
+      "summary": "Joined the team later in the development cycle to help complete a SPA that allows users to create a profile and connect with local health and benefits providers so they can gain access to the services they may need.",
+      "highlights": [
+        "Created a template system to accelerate development of new features of the application",
+        "Created custom React Hooks to simplify development of modals and dialog boxes",
+        "Lead a team of new apprentices in learning all aspects of the Agile workflow",
+        "Lead daily stand-up meetings with the apprentice team",
+        "Assisted in creating sprint plans from documents and meeting notes provided by the Business Analyist team",
+        "Assisted apprentice front end and back end developers in learning how to work together to integrate their features.",
+        "Won IBM Service Excellence Award For contributions that directly lead to the sale of the project."
+      ],
+      "keywords": [
+        "HTML",
+        "CSS",
+        "ES6",
+        "TypeScript",
+        "React",
+        "React Context",
+        "React Hooks",
+        "IBM Carbon Design Language",
+        "Styled-Components",
+        "Trello",
+        "git",
+        "GitHub"
+      ],
+      "startDate": "2020-07-10",
+      "endDate": "2020-11-10",
+      "roles": ["React Developer"],
+      "entity": "Entity",
+      "type": "application"
+    },
+    {
+      "name": "Jr. Front End Developer for a large data processing company",
+      "summary": "Developed a web application, using the client's proprietary front end framework, to be used by HR departments to easily enter new hires into their benefits system.",
+      "highlights": [
+        "Refactored large sections of the state management layer for a less repetitive code base",
+        "Wrote a library of helper functions to be reused by developers throughout the application",
+        "Created services to perform CRUD actions using API endpoints.",
+        "Supported teammates in learning the git workflow and DRY programming principles."
+      ],
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "ES6",
+        "TypeScript",
+        "React",
+        "Redux",
+        "git",
+        "Bitbucket",
+        "Jira",
+        "SourceTree"
+      ],
+      "startDate": "2019-06-09",
+      "endDate": "2020-04-10",
+      "roles": ["Jr. Front End Developer"],
+      "entity": "Entity",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "stackoverflow"
+  }
+}

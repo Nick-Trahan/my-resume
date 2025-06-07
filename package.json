@@ -1,0 +1,20 @@
+{
+  "name": "my-resume",
+  "version": "1.0.0",
+  "description": "My personal resume built with JSON Resume",
+  "main": "resume.json",
+  "scripts": {
+    "build": "resume export index.html --theme stackoverflow",
+    "serve": "resume serve --theme stackoverflow",
+    "pdf": "resume export resume.pdf --theme stackoverflow"
+  },
+  "dependencies": {
+    "jsonresume-theme-stackoverflow": "^2.0.0"
+  },
+  "devDependencies": {
+    "resume-cli": "^3.0.8"
+  },
+  "keywords": ["resume", "json-resume"],
+  "author": "Nichalos Trahan",
+  "license": "MIT"
+}
