@@ -79,24 +79,33 @@
       "name": "Front End Development",
       "level": "Advanced",
       "keywords": [
-        "HTML",
+        "AG-Grid",
         "CSS",
-        "SCSS",
+        "HTML",
         "JavaScript",
-        "TypeScript",
+        "MobX",
+        "NextJS",
         "NodeJS",
         "React",
         "Redux",
-        "MobX",
         "RESTful APIs",
-        "AG-Grid",
-        "Styled-Components"
+        "SCSS",
+        "Styled-Components",
+        "TypeScript"
       ]
     },
     {
       "name": "Back End Development",
       "level": "Intermediate",
-      "keywords": ["NodeJS", "MongoDB", "Amazon Web Services", "Java"]
+      "keywords": [
+        "Amazon Web Services",
+        ".NET",
+        "C#",
+        "Entity Framework",
+        "Java",
+        "MongoDB",
+        "NodeJS"
+      ]
     },
     {
       "name": "DevOps",
@@ -114,18 +123,19 @@
       "name": "Collaboration and Support",
       "level": "Advanced",
       "keywords": [
-        "Jira",
+        "Agile Development",
+        "Bitbucket",
         "Confluence",
-        "Trello",
         "git",
         "GitHub",
-        "Bitbucket",
-        "SourceTree",
-        "Agile Development",
+        "Jira",
         "Kanban",
-        "Scrum",
         "Pair programming",
-        "Slack"
+        "Scrum",
+        "Slack",
+        "SourceTree",
+        "Teams",
+        "Trello"
       ]
     }
   ],
