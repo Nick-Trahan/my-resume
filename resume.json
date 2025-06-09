@@ -30,7 +30,7 @@
   },
   "work": [
     {
-      "name": "Red River Technologies",
+      "company": "Red River Technologies",
       "position": "Web Developer",
       "url": "https://redriver.com",
       "startDate": "2022-12-19",
@@ -38,7 +38,7 @@
       "summary": "Web developer working within an Agile team responsible for all aspects of the SDLC. Worked with subject matter experts and project managers to plan, develop, test and deploy custom quoting software that enabled the sales team deliver accurate, error-free quotes to clients. Specialized into React front-end development, while also working in C#/.NET with Entity Framework and Azure DevOps to complete back-end and database related tasks."
     },
     {
-      "name": "IBM",
+      "company": "IBM",
       "position": "Application Developer",
       "url": "https://ibm.com",
       "startDate": "2019-03-25",
